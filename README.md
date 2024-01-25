@@ -2,6 +2,6 @@
 
 Run the following two commands
 
-`** sudo docker-compose up --build **`
+` sudo docker-compose up --build `
 
-`** go run ./main.go **`
+` go run ./main.go `
